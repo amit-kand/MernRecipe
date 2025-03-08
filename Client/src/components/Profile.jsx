@@ -5,8 +5,8 @@ const Profile = () => {
   return (
     <>
       <div className="container text-center my-3">
-        <h1>Welcom, {user.name}</h1>
-        <h2>{user.gmail}</h2>
+        <h1>Welcome, {user.name}</h1>
+        
       </div>
 
       <div className="container">
